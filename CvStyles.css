@@ -13,12 +13,10 @@ body {
     margin-top: 10px;
     height: 100px;
     width: 100px;
-    
-  
-}
+        }
 span{
     font-weight: bold;
-}
+    }
 a{
     color:#000000
 }
@@ -26,28 +24,16 @@ td{
     background-color: rgb(240, 192, 173);
 }
 th{
-    background-color: rgb(255, 109, 51);
-}
-.Cvtitle{
-    
+    background-color: rgb(255, 109, 51);}
 
-
-}
 .profilepic{
     margin-top: 20px;
-    margin-left:75%;
-
-}
+    margin-left:75%;}
 
 .title{
-        font-size: 30px;
-      
-        
-    
-    }
+    font-size: 30px;
+   }
 .headerdiv{
     height: 20%;
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    
-}
+    grid-template-columns: 1fr 1fr;}
