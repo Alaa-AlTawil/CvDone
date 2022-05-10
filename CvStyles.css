@@ -2,11 +2,18 @@ body {
     background-color: lightsalmon;
     padding-left: 5%;
     padding-right: 5%;
-    margin: 0;
+    padding-bottom: 20px;
+    border-color:black ;
+    border-width: 5px;
+    border-style: solid;
     
 
 }
 .image {
+    margin-top: 10px;
+    height: 100px;
+    width: 100px;
+    
   
 }
 span{
@@ -20,4 +27,27 @@ td{
 }
 th{
     background-color: rgb(255, 109, 51);
+}
+.Cvtitle{
+    
+
+
+}
+.profilepic{
+    margin-top: 20px;
+    margin-left:75%;
+
+}
+
+.title{
+        font-size: 30px;
+      
+        
+    
+    }
+.headerdiv{
+    height: 20%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
 }
